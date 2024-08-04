@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 --  Output --
 
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-04 at 16 33 19](https://github.com/user-attachments/assets/b0f59806-b6d9-4914-b2f7-d5d65927a2cc width=300)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-04 at 16 33 19 | width =100](https://github.com/user-attachments/assets/b0f59806-b6d9-4914-b2f7-d5d65927a2cc )
 
